@@ -1,9 +1,13 @@
-## Faaaala dev, Wagner Aqui!
+## Faaaala DEV,  Wagner Aqui!
+### Muito feliz em esta evoluindo na carreira DEV. 
+Atualmente estou investindo em conhecimento e para tal decidi aprender sobre programação de forma Ampla. 
+Estudei algoritimia, Linux, virtualização, Engenharia de Software, Base de dados, Tecnicas de Scrum, DDD, Java, testes,  Javascript, React, Spring Boot, e outras tecnologias para chegar a conclusão de um projeto muito interessante, dentro de uma equipa multidiciplinar e de muita qualidade. Hoje estou aqui com a finalidade de aprender e aplicar o que aprendi ao longo desse ano.
+##
 
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=WagnerPaivaDev2&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerPaivaDev2&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerPaivaDev2&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
